@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Tech-itRohit
+- 👀 I’m interested in Java Based Web and Android Projects
+- 🌱 I’m currently learning Rest Api, Hibernate and SpringBoot
+- 💞️ I’m looking to collaborate on Project Based on Spring Boot
+- 📫 How to reach me - rohitranjansindri@gmail.com
